@@ -375,6 +375,10 @@
   ],
   "lua": [
     {
+      "command": "sumneko-lua-lsp",
+      "requires": []
+    },
+    {
       "command": "emmylua-ls",
       "requires": [
         "java"
